@@ -32,6 +32,9 @@ public final class AdBrowserActivity extends Activity {
 
     private static final String LOG_TAG = AdBrowserActivity.class.getSimpleName();
 
+
+
+
     public static final String KEY_URL = "url";
 
     private BrowserWebView mAdBrowserWebview;
